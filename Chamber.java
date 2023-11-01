@@ -14,7 +14,6 @@ import java.awt.Color;
  *     4 |  | 1</code>
  *     3 \  / 2</code>
  * 
- * @author CS1027
  *
  */
 public class Chamber extends HexComponent {
