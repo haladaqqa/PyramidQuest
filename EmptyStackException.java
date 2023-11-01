@@ -1,5 +1,4 @@
 /**
- * @author CS1027
  *
  *  Represents the situation in which a stack is empty.
  */
